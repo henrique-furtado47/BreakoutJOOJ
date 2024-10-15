@@ -18,4 +18,3 @@ else if (direction > 180 && (195 > direction || direction > 345))
 	direction = clamp(direction, 195, 345);
 }
 instance_destroy()
-obj_player.jooj+=1
