@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
-  "eventList":[],
+  "%Name":"obj_baseblock_3",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_baseblock_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player_wall_ball",
-    "path":"folders/Objects/Player_wall_ball.yy",
+    "name":"Bricks",
+    "path":"folders/Objects/Bricks.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_baseblock",
+    "path":"objects/obj_baseblock/obj_baseblock.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"spr_block_2",
+    "path":"sprites/spr_block_2/spr_block_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

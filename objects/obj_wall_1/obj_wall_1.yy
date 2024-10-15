@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_wall_1",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_wall_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Player_wall_ball",
