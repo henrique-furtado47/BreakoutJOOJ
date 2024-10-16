@@ -6,3 +6,6 @@ if !instance_exists(obj_ball){
 if !instance_exists(obj_baseblock){
 	room_restart()
 }
+if bateu=true and usou=true{
+	x=608
+}

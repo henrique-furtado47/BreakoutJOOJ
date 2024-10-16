@@ -1,1 +1,1 @@
-x+=6
+x+=velocidade
