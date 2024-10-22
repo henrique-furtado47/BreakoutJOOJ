@@ -4,7 +4,7 @@ if !instance_exists(obj_ball){
 	room_restart()
 }
 if !instance_exists(obj_baseblock){
-	room_restart()
+	room_goto_next()
 }
 if bateu=true and usou=true{
 	x=608
