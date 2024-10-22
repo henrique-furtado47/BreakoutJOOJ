@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-bateu=true
+gpu_set_tex_filter(false)

@@ -3,4 +3,5 @@
 with(obj_player){
 	instance_create_layer(obj_ball.x, obj_ball.y, "Instances", obj_ball)
 }
+usou=false
 instance_destroy()
